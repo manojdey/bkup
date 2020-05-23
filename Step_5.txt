@@ -1,0 +1,8 @@
+start   chrome-win
+
+in  Chrome  win  CROS enabled  in  :Allow CORS: Access-Control-Allow-Origin
+
+
+
+
+open the  below  URL  http://localhost:3000/
